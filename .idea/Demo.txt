@@ -1,0 +1,3 @@
+public void Ansh(String name) {
+    System.out.println(name);
+}
