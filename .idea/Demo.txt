@@ -1,3 +1,9 @@
 public void Dharmil(String name) {
     System.out.println(name);
 }
+public void Nihar(String name) {
+    System.out.println(name);
+}
+public void Ansh(String name) {
+    System.out.println(name);
+}
