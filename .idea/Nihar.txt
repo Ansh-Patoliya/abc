@@ -1,1 +1,2 @@
-Hello from here
+Hello from here,hello from here
+// This file is used to test the .idea folder and its contents.
