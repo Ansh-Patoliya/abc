@@ -12,3 +12,8 @@ void Ansh(){
     // This function does nothing
     System.out.println("This is a demo function.");
 }
+Java coding!!
+
+void systemPhaadDenge (int n) {
+    int i = n;
+}
