@@ -7,17 +7,3 @@ public void Nihar(String name) {
 public void Ansh(String name) {
     System.out.println(name);
 }
-
-
-public void Ansh(String name) {
-    System.out.println(name);
-}
-public void Ansh(String name) {
-    System.out.println(name);
-}
-public void Ansh(String name) {
-    System.out.println(name);
-}
-public void Ansh(String name) {
-    System.out.println(name);
-}
