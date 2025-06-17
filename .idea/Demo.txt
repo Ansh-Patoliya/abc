@@ -1,4 +1,3 @@
-void Ansh(){
-    // This function does nothing
-    System.out.println("This is a demo function.");
+public void Dharmil(String name) {
+    System.out.println(name);
 }
