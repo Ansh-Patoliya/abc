@@ -1,45 +1,5 @@
-hello
-hello
-hello
-hello
-hello
-hiiiiiiiii
-nihar
-nihar
-nihar
-nihar
-nihar
-hello
-hello
-hello
-hello
-hello
+Java coding!!
 
-
-hello sopmreinaaZfgv
-fg
-fgvbz
-as
-fbzfc
-ansh changed something
-hello
-hi
-hiiiii
-hlooo
-hii
-hlo
-hloo
-DPDPDPDPDPDPDPDPDPD
-ubaduyf buadn f
-ha dfbuh
-fdgih bf
-jdbiufn
-
-
-
-hello sopmreinaaZfgv
-fg
-fgvbz
-as
-fbzfc
-ansh changed something
+void systemPhaadDenge (int n) {
+    int i = n;
+}
