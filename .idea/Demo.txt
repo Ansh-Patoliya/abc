@@ -1,3 +1,8 @@
+Java coding!!
+
+void systemPhaadDenge (int n) {
+    int i = n;
+}
 public void Dharmil(String name) {
     System.out.println(name);
 }
